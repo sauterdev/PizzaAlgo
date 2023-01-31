@@ -1,0 +1,1 @@
+(()=>{"use strict";let o=window.prompt("enter your name");console.log(`Hello, ${o}`),2*Math.random()>2?console.log("dont speak loudly at the library"):console.log("dont worry, we are at the beach".toUpperCase())})();
